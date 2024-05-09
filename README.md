@@ -8,7 +8,7 @@ I am software developer who aspires to continuously expand my knowledge and skil
 
 * 🌍  I'm based in Palm Beach, Florida
 * ✉️  You can contact me at [mrj628809@gmail.com](mailto:mrj628809@gmail.com)
-* 🧠  Familiar with Python, Java, JavaScript, Docker, AWS, Git, AI, and Machine Learning
+* 🧠  Familiar with Python, Java, JavaScript, Flask, Django, Docker, AWS, Git, AI, and Machine Learning
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
